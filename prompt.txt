@@ -1,0 +1,146 @@
+You are an expert Python developer. Generate a modular and production-ready codebase for a car damage detection system using instance segmentation and repair cost estimation.
+
+🔍 Project Objective
+Build an AI system that:
+
+Uses Mask R-CNN to detect car damages in images.
+
+Highlights damaged regions using instance segmentation.
+
+Estimates repair cost in USD based on damage severity and type.
+
+📦 Dataset Input
+Use the annotation file: cleaned_via_project.json (VIA format)
+
+Each image is labeled with:
+
+Damage regions (rect, polygon, circle)
+
+Region attributes like "Damaged": "Dent", "Shatter", "Dislocated", "Scratch", etc.
+
+🧠 Model Requirements
+Use Mask R-CNN (preferably from matterport/Mask_RCNN, ported to TensorFlow 2.x).
+
+Pretrained on COCO and fine-tuned on custom dataset.
+
+Implement data loader to convert cleaned_via_project.json into training-ready format.
+
+Support bounding box + segmentation mask output.
+
+Save trained model in TensorFlow SavedModel format or .h5.
+
+🧪 Training Pipeline
+Create a module to:
+
+Load and parse cleaned_via_project.json
+
+Convert polygon, rectangle, circle annotations into masks.
+
+Augment training data using albumentations.
+
+Fine-tune Mask R-CNN.
+
+Save trained weights.
+
+🔎 Inference Pipeline
+Create an inference.py module that:
+
+Loads saved Mask R-CNN model
+
+Accepts an image
+
+Returns:
+
+Image with highlighted damage regions (green overlays using OpenCV)
+
+Damage types detected
+
+Mask area for each type
+
+Estimated repair cost in dollars based on:
+
+Mask area
+
+Type of damage (e.g., $30 for minor scratch per 1000 px², $150 for dent, $500+ for shattered parts)
+
+🌐 API Requirements
+Build a REST API using FastAPI with the following:
+
+Endpoint: POST /upload
+
+Functionality:
+
+Accepts a car image file
+
+Uploads it to cloud/S3 (or local placeholder)
+
+Runs inference using the saved model (no training inside the API)
+
+Returns:
+
+Base64-encoded image with mask overlay
+
+JSON including:
+
+damage_types: List of damage categories
+
+severity_score: Sum of mask areas
+
+estimated_repair_cost: In USD
+
+🖥️ Optional Frontend
+Include a minimal HTML+JS page with:
+
+File upload
+
+Shows output image and cost breakdown
+
+⚙️ Configurations
+Use .env or config.py for:
+
+Model path
+
+Cloud/S3 settings
+
+Cost estimation formula per damage type
+
+API port
+
+Recommended File Structure
+car_damage_system/
+├── config.py                # Env variables, constants
+├── data/
+│   ├── via_to_masks.py      # Converts VIA annotations to masks
+│   └── loader.py            # Dataset class
+├── training/
+│   ├── train.py             # Model training
+│   └── model.py             # Mask R-CNN architecture and loading
+├── inference/
+│   └── inference.py         # Prediction and cost estimation
+├── api/
+│   └── main.py              # FastAPI app
+├── static/
+│   └── index.html           # Optional frontend
+├── utils/
+│   └── cost_estimator.py    # Estimate cost based on mask area and damage type
+├── requirements.txt
+└── README.md
+Libraries to Use
+Use only well-supported libraries:
+
+tensorflow or tensorflow-gpu
+
+opencv-python
+
+pycocotools
+
+albumentations
+
+matplotlib
+
+Pillow
+
+fastapi, uvicorn
+add other libraries as required
+
+
