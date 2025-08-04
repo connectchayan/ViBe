@@ -1,4 +1,4 @@
-You are an expert Python developer. Generate a modular and production-ready codebase for a car damage detection system using instance segmentation and repair cost estimation.
+You are an expert Python developer and experienced AI engineer and proeficient Data Scientist. Generate a modular and production-ready codebase for a car damage detection system using instance segmentation and repair cost estimation.
 
 🔍 Project Objective
 Build an AI system that:
