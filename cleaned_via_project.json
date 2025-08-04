@@ -1,0 +1,2127 @@
+{
+  "_via_img_metadata": {
+    "0.jpg74976": {
+      "filename": "0.jpg",
+      "size": 74976,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 262,
+            "y": 139,
+            "width": 144,
+            "height": 77
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "1.jpg96215": {
+      "filename": "1.jpg",
+      "size": 96215,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 191,
+            "y": 67,
+            "width": 270,
+            "height": 291
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "2.jpg98459": {
+      "filename": "2.jpg",
+      "size": 98459,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 0,
+            "width": 327,
+            "height": 79
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              1,
+              125,
+              180,
+              220,
+              248,
+              221,
+              191,
+              164,
+              131,
+              91,
+              29,
+              21,
+              67,
+              58,
+              35,
+              9,
+              3,
+              9
+            ],
+            "all_points_y": [
+              121,
+              137,
+              144,
+              147,
+              147,
+              157,
+              159,
+              159,
+              155,
+              153,
+              149,
+              147,
+              147,
+              141,
+              137,
+              133,
+              131,
+              128
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              369,
+              367,
+              372,
+              375,
+              379,
+              388,
+              389,
+              393,
+              394,
+              397,
+              402,
+              402,
+              403,
+              405,
+              410,
+              406,
+              404,
+              404,
+              398,
+              389,
+              381,
+              378,
+              375,
+              372,
+              369,
+              363
+            ],
+            "all_points_y": [
+              300,
+              300,
+              291,
+              285,
+              279,
+              269,
+              271,
+              261,
+              256,
+              250,
+              246,
+              239,
+              232,
+              227,
+              220,
+              230,
+              240,
+              246,
+              262,
+              278,
+              290,
+              299,
+              303,
+              306,
+              305,
+              304
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "4.jpg63230": {
+      "filename": "4.jpg",
+      "size": 63230,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              657,
+              658,
+              644,
+              657,
+              653,
+              634,
+              674,
+              680,
+              686,
+              685,
+              685,
+              676
+            ],
+            "all_points_y": [
+              184,
+              223,
+              254,
+              266,
+              300,
+              382,
+              362,
+              353,
+              319,
+              286,
+              243,
+              217
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 46,
+            "y": 450,
+            "width": 259,
+            "height": 140
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "6.jpg50766": {
+      "filename": "6.jpg",
+      "size": 50766,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 56,
+            "y": 48,
+            "width": 159,
+            "height": 139
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              187,
+              196,
+              205,
+              217,
+              226,
+              235,
+              225,
+              230,
+              237,
+              238,
+              230,
+              219,
+              206,
+              196,
+              181,
+              177
+            ],
+            "all_points_y": [
+              224,
+              232,
+              225,
+              221,
+              215,
+              237,
+              271,
+              265,
+              271,
+              294,
+              308,
+              312,
+              315,
+              308,
+              309,
+              285
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "7.jpg197640": {
+      "filename": "7.jpg",
+      "size": 197640,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              69,
+              60,
+              86,
+              163,
+              247,
+              284,
+              360,
+              397,
+              479,
+              561,
+              604,
+              473,
+              334,
+              247,
+              173,
+              128,
+              104
+            ],
+            "all_points_y": [
+              223,
+              280,
+              301,
+              308,
+              307,
+              317,
+              360,
+              380,
+              421,
+              450,
+              299,
+              276,
+              232,
+              248,
+              265,
+              270,
+              261
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "8.jpg376781": {
+      "filename": "8.jpg",
+      "size": 376781,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              32,
+              195,
+              453,
+              469,
+              519,
+              576,
+              638,
+              694,
+              742,
+              763,
+              765,
+              737,
+              755,
+              752,
+              734,
+              725,
+              715,
+              696,
+              675,
+              649,
+              531,
+              527,
+              519,
+              505,
+              502,
+              482,
+              546,
+              533,
+              498,
+              480,
+              456,
+              408,
+              367,
+              284,
+              179,
+              122,
+              89
+            ],
+            "all_points_y": [
+              147,
+              176,
+              202,
+              211,
+              209,
+              151,
+              114,
+              97,
+              101,
+              88,
+              101,
+              135,
+              146,
+              166,
+              195,
+              215,
+              272,
+              358,
+              418,
+              463,
+              537,
+              492,
+              493,
+              460,
+              450,
+              443,
+              346,
+              335,
+              351,
+              375,
+              401,
+              418,
+              416,
+              399,
+              357,
+              323,
+              282
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              739,
+              758,
+              775,
+              789,
+              783,
+              778,
+              757,
+              740,
+              730,
+              728
+            ],
+            "all_points_y": [
+              187,
+              182,
+              191,
+              217,
+              242,
+              254,
+              244,
+              234,
+              219,
+              211
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "9.jpg390794": {
+      "filename": "9.jpg",
+      "size": 390794,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              741,
+              729,
+              626,
+              543,
+              455,
+              274,
+              126,
+              39,
+              1,
+              2,
+              250,
+              566,
+              602,
+              618,
+              631,
+              647,
+              656,
+              640,
+              622,
+              738
+            ],
+            "all_points_y": [
+              156,
+              172,
+              200,
+              187,
+              188,
+              220,
+              267,
+              316,
+              342,
+              765,
+              766,
+              374,
+              342,
+              335,
+              331,
+              311,
+              275,
+              265,
+              258,
+              194
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              837,
+              861,
+              878,
+              871,
+              832,
+              783,
+              723,
+              697,
+              662,
+              658,
+              643,
+              683,
+              758,
+              793,
+              815,
+              836
+            ],
+            "all_points_y": [
+              423,
+              393,
+              357,
+              304,
+              296,
+              297,
+              306,
+              324,
+              342,
+              365,
+              406,
+              438,
+              388,
+              380,
+              388,
+              421
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              806,
+              744,
+              699,
+              649,
+              649,
+              663
+            ],
+            "all_points_y": [
+              275,
+              292,
+              304,
+              325,
+              346,
+              331
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              614,
+              623,
+              634,
+              616,
+              605,
+              584,
+              612
+            ],
+            "all_points_y": [
+              352,
+              344,
+              331,
+              344,
+              347,
+              357,
+              352
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              742,
+              742,
+              741,
+              666,
+              657,
+              655,
+              637,
+              624,
+              737,
+              742,
+              741
+            ],
+            "all_points_y": [
+              202,
+              227,
+              250,
+              305,
+              293,
+              277,
+              262,
+              257,
+              195,
+              207,
+              247
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "10.jpg39751": {
+      "filename": "10.jpg",
+      "size": 39751,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 1,
+            "width": 466,
+            "height": 475
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "11.jpg198635": {
+      "filename": "11.jpg",
+      "size": 198635,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 192,
+            "y": 31,
+            "width": 125,
+            "height": 70
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 42,
+            "y": 29,
+            "width": 29,
+            "height": 17
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 107,
+            "y": 32,
+            "width": 55,
+            "height": 21
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "12.jpg46979": {
+      "filename": "12.jpg",
+      "size": 46979,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 17,
+            "y": 0,
+            "width": 603,
+            "height": 478
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "13.jpg52301": {
+      "filename": "13.jpg",
+      "size": 52301,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 38,
+            "y": 25,
+            "width": 507,
+            "height": 352
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "16.jpg200258": {
+      "filename": "16.jpg",
+      "size": 200258,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 492,
+            "y": 363,
+            "width": 67,
+            "height": 68
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 309,
+            "y": 389,
+            "width": 105,
+            "height": 68
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 414,
+            "y": 367,
+            "width": 67,
+            "height": 69
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 197,
+            "y": 467,
+            "width": 123,
+            "height": 18
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "19.jpg195823": {
+      "filename": "19.jpg",
+      "size": 195823,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 253,
+            "y": 434,
+            "width": 163,
+            "height": 90
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 207,
+            "y": 341,
+            "width": 193,
+            "height": 88
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "20.jpg45072": {
+      "filename": "20.jpg",
+      "size": 45072,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 25,
+            "y": 29,
+            "width": 570,
+            "height": 441
+          },
+          "region_attributes": {
+            "Undamaged": "",
+            "No Damage": "Unharmed"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "25.jpg204951": {
+      "filename": "25.jpg",
+      "size": 204951,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 53,
+            "y": 1,
+            "width": 741,
+            "height": 159
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 313,
+            "y": 163,
+            "width": 76,
+            "height": 41
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 187,
+            "y": 183,
+            "width": 129,
+            "height": 29
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 254,
+            "y": 360,
+            "width": 208,
+            "height": 77
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 95,
+            "y": 165,
+            "width": 100,
+            "height": 37
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "26.jpg135411": {
+      "filename": "26.jpg",
+      "size": 135411,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 200,
+            "y": 95,
+            "width": 296,
+            "height": 191
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "27.jpg218719": {
+      "filename": "27.jpg",
+      "size": 218719,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              449,
+              405,
+              393,
+              379,
+              421,
+              438,
+              448,
+              453,
+              452,
+              469,
+              483,
+              505,
+              529,
+              533,
+              518,
+              513
+            ],
+            "all_points_y": [
+              307,
+              355,
+              367,
+              399,
+              409,
+              411,
+              388,
+              371,
+              355,
+              334,
+              331,
+              313,
+              291,
+              223,
+              207,
+              217
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 366,
+            "y": 381,
+            "width": 84,
+            "height": 44
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              260,
+              245,
+              241,
+              273,
+              305,
+              362,
+              331,
+              283
+            ],
+            "all_points_y": [
+              535,
+              542,
+              557,
+              567,
+              558,
+              533,
+              528,
+              532
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "29.jpg187827": {
+      "filename": "29.jpg",
+      "size": 187827,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 47,
+            "y": 453,
+            "width": 167,
+            "height": 68
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 202,
+            "y": 259,
+            "width": 81,
+            "height": 68
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 603,
+            "y": 302,
+            "width": 81,
+            "height": 68
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 659,
+            "y": 97,
+            "width": 137,
+            "height": 275
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "30.jpg188470": {
+      "filename": "30.jpg",
+      "size": 188470,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 516,
+            "y": 286,
+            "width": 80,
+            "height": 58
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 215,
+            "y": 333,
+            "width": 80,
+            "height": 58
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 567,
+            "y": 85,
+            "width": 56,
+            "height": 193
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "31.jpg198693": {
+      "filename": "31.jpg",
+      "size": 198693,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 282,
+            "y": 327,
+            "width": 204,
+            "height": 93
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 331,
+            "y": 235,
+            "width": 188,
+            "height": 125
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 279,
+            "y": 359,
+            "width": 74,
+            "height": 45
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "32.jpg52669": {
+      "filename": "32.jpg",
+      "size": 52669,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 112,
+            "y": 23,
+            "width": 527,
+            "height": 411
+          },
+          "region_attributes": {
+            "No Damage": "Unharmed"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "35.jpg169275": {
+      "filename": "35.jpg",
+      "size": 169275,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 309,
+            "y": 262,
+            "width": 74,
+            "height": 141
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "36.jpg195588": {
+      "filename": "36.jpg",
+      "size": 195588,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 562,
+            "y": 364,
+            "width": 61,
+            "height": 37
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "37.jpg203773": {
+      "filename": "37.jpg",
+      "size": 203773,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 415,
+            "y": 297,
+            "width": 75,
+            "height": 67
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "38.jpg182417": {
+      "filename": "38.jpg",
+      "size": 182417,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 375,
+            "y": 285,
+            "width": 75,
+            "height": 154
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3,
+            "y": 394,
+            "width": 344,
+            "height": 47
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "39.jpg168646": {
+      "filename": "39.jpg",
+      "size": 168646,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 269,
+            "y": 269,
+            "width": 339,
+            "height": 137
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "42.jpg161214": {
+      "filename": "42.jpg",
+      "size": 161214,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 396,
+            "y": 411,
+            "width": 49,
+            "height": 75
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 428,
+            "y": 210,
+            "width": 39,
+            "height": 80
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 494,
+            "y": 167,
+            "width": 17,
+            "height": 32
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 25,
+            "y": 9,
+            "width": 463,
+            "height": 103
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "43.jpg519432": {
+      "filename": "43.jpg",
+      "size": 519432,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 251,
+            "y": 428,
+            "width": 678,
+            "height": 150
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 241,
+            "y": 520,
+            "width": 436,
+            "height": 146
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              707,
+              850,
+              976,
+              1193,
+              1176,
+              930,
+              1108,
+              1175,
+              1281,
+              931,
+              780,
+              707,
+              707
+            ],
+            "all_points_y": [
+              635,
+              645,
+              635,
+              677,
+              694,
+              678,
+              709,
+              756,
+              806,
+              725,
+              689,
+              664,
+              639
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "44.jpg519193": {
+      "filename": "44.jpg",
+      "size": 519193,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 8,
+            "y": 31,
+            "width": 1067,
+            "height": 767
+          },
+          "region_attributes": {
+            "No Damage": "Unharmed"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "45.jpg528989": {
+      "filename": "45.jpg",
+      "size": 528989,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 734,
+            "y": 572,
+            "width": 268,
+            "height": 147
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "46.jpg132422": {
+      "filename": "46.jpg",
+      "size": 132422,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 181,
+            "y": 166,
+            "width": 182,
+            "height": 248
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "47.jpg559244": {
+      "filename": "47.jpg",
+      "size": 559244,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 874,
+            "cy": 481,
+            "r": 111
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 387,
+            "cy": 642,
+            "r": 111
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 513,
+            "cy": 411,
+            "r": 111
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "48.jpg516615": {
+      "filename": "48.jpg",
+      "size": 516615,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              15,
+              134,
+              334,
+              118,
+              54,
+              248,
+              341,
+              647,
+              744,
+              875,
+              1047,
+              1509,
+              1593,
+              1599,
+              1593,
+              1545,
+              1450,
+              1145,
+              605,
+              782,
+              931,
+              706,
+              427,
+              219,
+              139,
+              17
+            ],
+            "all_points_y": [
+              288,
+              371,
+              587,
+              518,
+              530,
+              641,
+              684,
+              758,
+              734,
+              726,
+              733,
+              880,
+              876,
+              673,
+              499,
+              304,
+              81,
+              58,
+              21,
+              301,
+              354,
+              479,
+              348,
+              319,
+              286,
+              287
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Shatter"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "49.jpg230291": {
+      "filename": "49.jpg",
+      "size": 230291,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 434,
+            "width": 266,
+            "height": 158
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "51.jpg214327": {
+      "filename": "51.jpg",
+      "size": 214327,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 181,
+            "y": 264,
+            "width": 127,
+            "height": 71
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "52.jpg214054": {
+      "filename": "52.jpg",
+      "size": 214054,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 187,
+            "y": 260,
+            "width": 340,
+            "height": 263
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "55.jpg220860": {
+      "filename": "55.jpg",
+      "size": 220860,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 301,
+            "y": 325,
+            "width": 121,
+            "height": 141
+          },
+          "region_attributes": {
+            "Damaged": "Dislocated"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 501,
+            "y": 293,
+            "width": 98,
+            "height": 86
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "56.jpg194788": {
+      "filename": "56.jpg",
+      "size": 194788,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 246,
+            "y": 35,
+            "width": 175,
+            "height": 120
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 249,
+            "y": 210,
+            "width": 91,
+            "height": 111
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "59.jpg203396": {
+      "filename": "59.jpg",
+      "size": 203396,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 489,
+            "cy": 345,
+            "r": 26
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              454,
+              105,
+              4,
+              4,
+              460,
+              503,
+              504,
+              485,
+              447
+            ],
+            "all_points_y": [
+              331,
+              346,
+              353,
+              363,
+              357,
+              359,
+              338,
+              331,
+              335
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "60.jpg125199": {
+      "filename": "60.jpg",
+      "size": 125199,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              422,
+              401,
+              392,
+              397,
+              405,
+              419,
+              433,
+              439,
+              424
+            ],
+            "all_points_y": [
+              250,
+              285,
+              324,
+              355,
+              368,
+              326,
+              281,
+              263,
+              252
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              408,
+              366,
+              307,
+              350,
+              397
+            ],
+            "all_points_y": [
+              258,
+              281,
+              303,
+              312,
+              285
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    },
+    "62.jpg203689": {
+      "filename": "62.jpg",
+      "size": 203689,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              334,
+              295,
+              245,
+              182,
+              151,
+              129,
+              224,
+              293,
+              344
+            ],
+            "all_points_y": [
+              337,
+              351,
+              355,
+              369,
+              397,
+              406,
+              397,
+              381,
+              362
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              523,
+              467,
+              369,
+              347,
+              373,
+              468,
+              521,
+              537
+            ],
+            "all_points_y": [
+              309,
+              322,
+              343,
+              355,
+              360,
+              339,
+              327,
+              321
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 605,
+            "y": 164,
+            "width": 83,
+            "height": 67
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 505,
+            "y": 171,
+            "width": 95,
+            "height": 61
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 510,
+            "y": 249,
+            "width": 167,
+            "height": 57
+          },
+          "region_attributes": {
+            "Damaged": "Dent"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              496,
+              485,
+              577,
+              647,
+              572
+            ],
+            "all_points_y": [
+              290,
+              299,
+              284,
+              269,
+              273
+            ]
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 693,
+            "y": 232,
+            "width": 45,
+            "height": 40
+          },
+          "region_attributes": {
+            "Damaged": "Scratch"
+          }
+        }
+      ],
+      "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+      }
+    }
+  }
+}
