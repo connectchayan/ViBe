@@ -1,0 +1,44 @@
+from docx import Document
+
+def get_paragraphs_under_heading(document_path, target_heading_text, heading_level=1):
+    """
+    Extracts paragraphs appearing under a specific heading until the next heading of
+    the same or higher level is encountered.
+
+    Args:
+        document_path (str): The path to the .docx file.
+        target_heading_text (str): The text of the heading to search for.
+        heading_level (int): The level of the target heading (e.g., 1 for Heading 1, 2 for Heading 2).
+
+    Returns:
+        list: A list of Paragraph objects found under the target heading.
+    """
+    document = Document(document_path)
+    paragraphs_under_section = []
+    in_target_section = False
+
+    for paragraph in document.paragraphs:
+        # Check if the paragraph is a heading
+        if paragraph.style.name.startswith('Heading') and \
+           int(paragraph.style.name.split()[-1]) <= heading_level:
+            # If we were in the target section and found another heading, stop
+            if in_target_section:
+                break
+            # If this is the target heading, start collecting paragraphs
+            if paragraph.text.strip() == target_heading_text and \
+               int(paragraph.style.name.split()[-1]) == heading_level:
+                in_target_section = True
+            continue # Skip the heading itself
+
+        # If we are in the target section and it's not a heading, add it to the list
+        if in_target_section:
+            paragraphs_under_section.append(paragraph)
+
+    return paragraphs_under_section
+
+# Example usage:
+# doc_path = "your_document.docx"
+# target_heading = "Introduction"
+# paragraphs = get_paragraphs_under_heading(doc_path, target_heading, heading_level=1)
+# for p in paragraphs:
+#     print(p.text)
