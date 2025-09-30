@@ -42,3 +42,23 @@ def get_paragraphs_under_heading(document_path, target_heading_text, heading_lev
 # paragraphs = get_paragraphs_under_heading(doc_path, target_heading, heading_level=1)
 # for p in paragraphs:
 #     print(p.text)
+
+
+
+
+{
+  "doc_id": "process_transfer_v1.2",
+  "doc_type": "ProcessTransferDoc",
+  "sections": [
+    {
+      "section_id": "sec_heating",
+      "title": "Heating Parameters",
+      "paragraphs": [
+        {"id": "p1", "text": "The system operates at 100–120°C..."}
+      ],
+      "tables": [
+        {"id": "t1", "rows": [["Param", "Value"], ["Temp", "120C"], ["Pressure", "5 bar"]]}
+      ]
+    }
+  ]
+}
