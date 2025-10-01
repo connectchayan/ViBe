@@ -128,6 +128,55 @@ car_damage_system/
 Libraries to Use
 Use only well-supported libraries:
 
+
+Level 2 – Managed (Project-Level Control)
+
+GenAI adoption initiated within select business units as pilots.
+
+Documented project-level prompt guidelines with SME validation.
+
+Human-in-the-Loop (HITL) in place for critical reviews.
+
+Level 3 – Defined (Org-Wide Standardization)
+
+GenAI scaled into multiple business units with standardized architecture patterns (RAG, vector DB).
+
+Enterprise-level governance framework established (Responsible AI, prompt governance, compliance).
+
+Organization-wide knowledge base for reusable prompts and embeddings.
+
+Level 4 – Quantitatively Managed (Metrics-Driven)
+
+Accuracy of LLM outputs measured; hallucination rate and model drift tracking in progress.
+
+RAGAS framework implemented to evaluate retrieval quality and faithfulness.
+
+Continuous monitoring dashboards track GenAI performance and risk.
+
+Level 5 – Optimizing (Continuous Improvement & Innovation)
+
+Feedback loops combine RAGAS metrics + HITL reviews to improve responses.
+
+Proactive governance ensures explainability, fairness, and compliance across BUs.
+
+GenAI outcomes still anecdotal, with plans to establish measurable business impact (e.g., cycle time reduction, productivity gains).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 tensorflow or tensorflow-gpu
 
 opencv-python
